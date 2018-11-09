@@ -22,8 +22,8 @@ Layout pages:
 •	Index - index.html 
 •	Comments - comments.php 
 •	Functions - functions.php 
-The Loop: 
 
+The Loop: 
 •	Posts Pages 
 •	Custom Post Types 
 •	Comments
