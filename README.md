@@ -1,4 +1,4 @@
-Why WordPress Themes:
+# Why WordPress Themes:
 
 WordPress Themes are files that work together to create the design and functionality of a WordPress site. Each Theme may be different, offering many choices for site owners to instantly change their website look.
 
