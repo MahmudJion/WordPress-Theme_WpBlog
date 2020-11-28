@@ -1,4 +1,4 @@
-# Why WordPress Themes:
+# WordPress-Theme_WpBlog:
 
 WordPress Themes are files that work together to create the design and functionality of a WordPress site. Each Theme may be different, offering many choices for site owners to instantly change their website look.
 
@@ -27,5 +27,3 @@ The Loop:
 •	Posts Pages 
 •	Custom Post Types 
 •	Comments
-
-Based on a developed theme by Tania Rascia https://github.com/taniarascia/startwordpress with adding some extra features like search bar and more dynamic.
